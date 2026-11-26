@@ -15,6 +15,10 @@ I work with game engineering and 3D modeling, and I'm expanding into financial d
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
+#### 📈 BI Tools
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logo=alteryx&logoColor=white"/>
+
 #### 🎮 3D & Game
 
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Substance%20Painter-C42D2D?style=flat-square"/> <img src="https://img.shields.io/badge/3ds%20Max-37A5CC?style=flat-square"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
