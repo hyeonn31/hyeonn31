@@ -1,8 +1,6 @@
-
-
 ### 👋 Hi, I'm Seunghyun Jung
 
-I started out in game engineering and 3D modeling, and now I'm studying data analysis for finance.
+I work with game engineering and 3D modeling, and I'm expanding into financial data analysis.
 
 ---
 
